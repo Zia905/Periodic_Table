@@ -1,1 +1,3 @@
 # Periodic_Table
+This script allows to analyze the properties of elements in the periodic table based on their atomic numbers. It loads a dataset containing information about elements and provides a way to look up and display the properties of a specific element. 
+The script will display a simplified periodic table with element symbols. One can input an atomic number when prompted to look up properties of a specific element. The script will then display the properties of the element, such as its name, symbol, atomic mass, and more...
